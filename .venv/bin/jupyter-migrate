@@ -1,4 +1,4 @@
-#!/Users/leilatawfik/Desktop/BMEN619_StudentLife/.venv/bin/python3.12
+#!/Users/leilatawfik/Desktop/BMEN619_StudentLife/.venv/bin/python3.14
 import sys
 from jupyter_core.migrate import main
 if __name__ == '__main__':
